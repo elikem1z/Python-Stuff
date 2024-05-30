@@ -7,7 +7,7 @@ Usage:
 1. Ensure you have two Excel files: one for initial attendance and one for final attendance.
 2. Specify the file paths and the column name that uniquely identifies each attendee.
 3. Run the script. The missing attendees will be saved to 'missing_entries.xlsx'.
-  
+   
 Required Libraries:  
 - pandas (install via 'pip install pandas')
 - openpyxl (install via 'pip install openpyxl')
