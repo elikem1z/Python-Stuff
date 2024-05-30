@@ -2,7 +2,7 @@
 This Python script checks meeting attendance by comparing two Excel sheets: 
 one with the initial attendance list and one with the final list. It identifies 
 attendees who left early and writes their names to a new Excel file.
-
+ 
 Usage:
 1. Ensure you have two Excel files: one for initial attendance and one for final attendance.
 2. Specify the file paths and the column name that uniquely identifies each attendee.
